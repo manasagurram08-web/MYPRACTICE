@@ -1,0 +1,30 @@
+h1{
+    color:blue;
+    text-align:center;
+    font-family:"press start 2p", cursive, sans-serif;
+}
+p{
+    color:hotpink;
+    background-color:lightgrey;
+    font-family:"press start 2p", cursive, sans-serif;
+    font-style:italic;
+    font-weight:600;
+    font-decoration:cyan underline;
+    font-size:20px;
+
+}
+body{
+    background-color:#111111;
+}
+#p1{
+
+}
+#p2{
+
+}
+.odd{
+    color:red;;
+}
+.even{
+    color:rgb(15, 219, 181);
+}
